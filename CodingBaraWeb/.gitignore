@@ -1,0 +1,3 @@
+# Ignore local environment or secret JSON configurations
+config.local.json
+serviceAccountKey.json
