@@ -1,0 +1,29 @@
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+} 
+
+form { 
+    display: block; 
+    margin: 20px auto; 
+    height: auto; 
+    width: 900px; /* Fixed styling width instead of calc(100vw) formulas */
+} 
+
+/* Your submit button styles */
+button { 
+    display: block; 
+    margin: 20px auto 0 auto; 
+    background-color: #78B1D9; 
+    color: white; 
+    border: none; 
+    padding: 1rem 3rem; 
+    font-size: 1.5rem; 
+    cursor: pointer; 
+    border-radius: 20px; 
+} 
+
+button:hover { 
+    background-color: #5A8BB8; 
+}
