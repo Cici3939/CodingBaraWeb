@@ -24,6 +24,8 @@ This repository (`codingbaraweb`) houses the web application component of the br
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript
 * **Database & Cloud:** Firebase
 
+<img width="1470" height="800" alt="Screenshot 2026-09-27 at 9 59 10 AM" src="https://github.com/user-attachments/assets/04764b29-0652-479c-a6c1-87280a559556" />
+
 ---
 
 ## 🚀 Quickstart & Local Setup
