@@ -1,6 +1,9 @@
 # CodingBara Web Dashboard 🦫💻
 
 > *The official web application for the CodingBara ecosystem. A capybara-themed productivity suite designed to keep coders focused, organized, and calm.*
+> Link to CodingBara: https://github.com/Cici3939/CodingBara
+
+> *Note: the Firebase integration is still a work in progress.*
 
 ---
 
