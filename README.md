@@ -1,7 +1,6 @@
 # CodingBara Web Dashboard 🦫💻
 
 > *The official web application for the CodingBara ecosystem. A capybara-themed productivity suite designed to keep coders focused, organized, and calm.*
-> Link to CodingBara: https://github.com/Cici3939/CodingBara
 
 > *Note: the Firebase integration is still a work in progress.*
 
@@ -84,7 +83,7 @@ The web app will now be accessible at `http://127.0.0.1:8000/`.
 ## 🔗 System Integration
 
 This web application is designed to operate alongside the **CodingBara Hardware Unit**.
-For the machine learning (SER/FER) pipelines, camera/mic integration, and Raspberry Pi robotics code, please visit the main hardware repository: [CodingBara Core](https://github.com/Cici3939/CodingBara?utm_source=gemini).
+For the machine learning (SER/FER) pipelines, camera/mic integration, and Raspberry Pi robotics code, please visit the main hardware repository: [CodingBara Core](https://github.com/Cici3939/CodingBara).
 
 ---
 
